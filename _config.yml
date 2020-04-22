@@ -4,14 +4,16 @@
 
 # Site
 title: 如若钟情何苦自矜
-subtitle: ''
-description: ''
+subtitle: 若钟情勿自矜
+description:
 keywords:
 author: Scarl_Wen
 language: zh-CN
-timezone: ''
-avatar: /images/wh.jpg
-
+timezone:
+# Link to your avatar | 填写头像地址
+#avatar: /images/wh.jpg
+# Small icon of Your site | 站点小图标地址
+#favicon: /images/logo.jpg
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://github.com/wensijia/wensijia.github.io
